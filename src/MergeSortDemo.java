@@ -51,6 +51,7 @@ public class MergeSortDemo {
             j++;
             k++;
         }
+
     }
 
     // Main function that sorts arr[l..r] using
