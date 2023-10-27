@@ -57,13 +57,13 @@ public class DoublyLinkedList {
             if(current==null)
                 return null;
         }
-        if(current==head)
+        if(current==head) // delete first
             head=current.next;
-        else
+        else              // delete in the middle
             current.prev.next=current.next;
-        if (current==tail)
+        if (current==tail) // delete last
             tail=current.prev;
-        else
+        else               // delete in the middle
             current.next.prev=current.prev;
         return current;
     }
@@ -76,9 +76,9 @@ public class DoublyLinkedList {
         }
         Node newNode=new Node();
         newNode.data=data;
-        if(current==tail)
+        if(current==tail)  // insert last
             tail=newNode;
-        else {
+        else {   // insert in the middle
             current.next.prev=newNode;
             newNode.next=current.next;
         }
