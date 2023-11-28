@@ -4,15 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="321999f9-e8a3-4b0a-81e1-b381c91fffd5" name="Changes" comment="adding binary search tree">
-      <change afterPath="$PROJECT_DIR$/src/BinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinearSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SelectionSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructuresInJava.iml" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructuresAndAlgorithmsInJava.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StackDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StackDemo.java" afterDir="false" />
+    <list default="true" id="321999f9-e8a3-4b0a-81e1-b381c91fffd5" name="Changes" comment="adding some algorithms">
+      <change afterPath="$PROJECT_DIR$/src/InsertionSort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,7 +104,14 @@
       <option name="project" value="LOCAL" />
       <updated>1698628508566</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="adding some algorithms">
+      <created>1701135279445</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1701135279445</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -132,7 +132,8 @@
     <MESSAGE value="coding doubly linked list" />
     <MESSAGE value="adding some comments" />
     <MESSAGE value="adding binary search tree" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding binary search tree" />
+    <MESSAGE value="adding some algorithms" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding some algorithms" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
