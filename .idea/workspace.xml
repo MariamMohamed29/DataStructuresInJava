@@ -4,10 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="321999f9-e8a3-4b0a-81e1-b381c91fffd5" name="Changes" comment="adding some comments">
-      <change afterPath="$PROJECT_DIR$/src/binarySearchTree/MyNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/binarySearchTree/Tree.java" afterDir="false" />
+    <list default="true" id="321999f9-e8a3-4b0a-81e1-b381c91fffd5" name="Changes" comment="adding binary search tree">
+      <change afterPath="$PROJECT_DIR$/src/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinearSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SelectionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructuresInJava.iml" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructuresAndAlgorithmsInJava.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StackDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StackDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,9 +41,25 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ww/Downloads/microservice1/microservice1&quot;
   }
 }</component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="DataStructuresAndAlgorithmsInJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="DataStructuresAndAlgorithmsInJava" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -83,7 +104,14 @@
       <option name="project" value="LOCAL" />
       <updated>1698446342751</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="adding binary search tree">
+      <created>1698628508566</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1698628508566</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -103,7 +131,8 @@
     <MESSAGE value="adding some methods related to LinkedList" />
     <MESSAGE value="coding doubly linked list" />
     <MESSAGE value="adding some comments" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding some comments" />
+    <MESSAGE value="adding binary search tree" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding binary search tree" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

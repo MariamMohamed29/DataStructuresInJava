@@ -21,7 +21,7 @@ public class StackDemo {
     // Displaying element on the top of the stack
     static void stackPeek(Stack<Integer> stack){
         int y=stack.peek();
-        System.out.println("the to element of the stack is "+y);
+        System.out.println("the top element of the stack is "+y);
     }
     // Searching element in the stack
     static void stackSearch(Stack<Integer> stack,int element){
